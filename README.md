@@ -1,7 +1,7 @@
 # Web Scraping Script for Storage Site Directory
 
 The project aimed to extract business names and addresses from the Storage Site Directory: https://www.ssauk.com/storage-site-directory.html. 
-This required using a Python scraping tool to gather necessary information, including phone numbers and website URLs accessed through
+This required use of a Python scraping tool to gather necessary information, including phone numbers and website URLs accessed through
 the "more details" link for each business. The script utilizes Selenium for dynamic page loading and BeautifulSoup for HTML parsing. 
 The focus was on businesses in London and a 5-mile radius.
 
