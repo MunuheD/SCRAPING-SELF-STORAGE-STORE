@@ -45,4 +45,8 @@ the code can be adapted to extract data for businesses from various locations by
 
 ## Output
 - A success message is printed upon successful data download, indicating the location of the saved file.
+  
+### Disclaimer
+
+**Please note that this script relies on the structure of the https://www.ssauk.com/storage-site-directory.html website to extract data.** If the website's layout or structure changes, the script may fail to work as expected. In such cases, the HTML parsing logic and URL generation may need to be updated to align with the new structure of the site.
 
